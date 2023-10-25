@@ -15,3 +15,6 @@ The Crafting Recipes:
 
 ![image](https://github.com/EntityBossBlood/Lock-System/assets/148834782/000a752c-f6f5-4290-8d9c-ff2ff1fe6713) - Door Delocker - Removes the Lock From already applied on block with the lock.
 
+
+
+The important stuff in this datapack is "How do i open my door?" Well no worrys owners who had made the lock do not need a key in order to open it. but if you wanna share it to someone u trust u can create a key for them with the Keys named to the name that u renamed the door lock originally key supposed to be.
